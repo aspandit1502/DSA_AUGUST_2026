@@ -8,7 +8,7 @@ public class linear_sea //find the first occ of the element
             if(nums[i]==val)
             {
               System.out.println(val+" is found at position "+ (i+1) +" in the array");
-              break;
+              break; // break laga denge taaki pehle baar milte hi process band 
             }
         }
     }
